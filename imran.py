@@ -35,6 +35,6 @@ sumdiv(int num, int x)
         else
                 return sumdiv(num,x-1);
 }
-
+## this repository contains the basics of python and which will help the users to understand data structures and algorithmms.
 
     
